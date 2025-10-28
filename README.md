@@ -1,4 +1,4 @@
-# 📺 Advertising Sales Prediction using Machine Learning
+# TASK - 5 Advertising Sales Prediction using Machine Learning
 
 ## 📘 Objective
 The goal of this project is to develop a machine learning model that predicts **sales revenue** based on advertising expenditure across various media channels such as **TV**, **Radio**, and **Newspaper**.  
